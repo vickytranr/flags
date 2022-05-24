@@ -1,0 +1,235 @@
+.sweden {
+    display: grid;
+    grid-template-columns: 50px 20px 90px;
+    grid-template-rows: 40px 20px 40px;
+    padding: 20px;
+}
+.item1{
+    grid-area: 1;
+    background-color: blue;
+}
+.item2{
+    grid-area: 2;
+    background-color: yellow;
+}
+.item3{
+    grid-area:3;
+    background-color: blue;
+}
+.item4{
+    grid-area: 3/2;
+    background-color: yellow;
+}
+.item5{
+    grid-area: 1/2;
+    background-color: yellow;
+}
+.item6{
+    grid-area:2/2;
+    background-color: yellow;
+}
+.item7{
+    grid-area:1/3;
+    background-color: blue;
+}
+.item8{
+    grid-area:2/3;
+    background-color: yellow;
+}
+.item9{
+    grid-area:3/3;
+    background-color: blue;
+}
+
+.finland {
+    display: grid;
+    grid-template-columns: 50px 30px 100px;
+    grid-template-rows: 50px 30px 50px;
+    padding: 20px;
+}
+.col1{
+    grid-area: 1;
+    background-color: lightgrey;
+}
+.col2{
+    grid-area: 2;
+    background-color: blue;
+}
+.col3{
+    grid-area:3;
+    background-color: lightgrey;
+}
+.col4{
+    grid-area: 3/2;
+    background-color: blue;
+}
+.col5{
+    grid-area: 1/2;
+    background-color: blue;
+}
+.col6{
+    grid-area:2/2;
+    background-color: blue;
+}
+.col7{
+    grid-area:1/3;
+    background-color: lightgrey;
+}
+.col8{
+    grid-area:2/3;
+    background-color: blue;
+}
+.col9{
+    grid-area:3/3;
+    background-color: lightgrey;
+}
+
+.denmark {
+    display: grid;
+    grid-template-columns: 60px 20px 90px;
+    grid-template-rows: 60px 20px 60px;
+    padding: 20px;
+}
+.den1{
+    grid-area: 1;
+    background-color: red;
+}
+.den2{
+    grid-area: 2;
+    background-color: lightgrey;
+}
+.den3{
+    grid-area:3;
+    background-color: red;
+}
+.den4{
+    grid-area: 3/2;
+    background-color: lightgrey;
+}
+.den5{
+    grid-area: 1/2;
+    background-color: lightgrey;
+}
+.den6{
+    grid-area:2/2;
+    background-color: lightgrey;
+}
+.den7{
+    grid-area:1/3;
+    background-color: red;
+}
+.den8{
+    grid-area:2/3;
+    background-color: lightgray;
+}
+.den9{
+    grid-area:3/3;
+    background-color: red;
+}
+
+.iceland {
+    display: grid;
+    grid-template-columns: 70px 10px 20px 10px 140px;
+    grid-template-rows: 70px 10px 20px 10px 70px;
+    padding: 20px;
+}
+.ice1{
+    grid-area: 1;
+    background-color: blue;
+}
+.ice2{
+    grid-area: 2;
+    background-color: lightgrey;
+}
+.ice3{
+    grid-area:3;
+    background-color: red;
+}
+.ice4{
+    grid-area: 4;
+    background-color: lightgrey;
+}
+.ice5{
+    grid-area: 5;
+    background-color: blue;
+}
+.ice6{
+    grid-area:1/2;
+    background-color: lightgrey;
+}
+.ice7{
+    grid-area:1/3;
+    background-color: red;
+}
+.ice8{
+    grid-area:1/4;
+    background-color: lightgray;
+}
+.ice9{
+    grid-area:1/5;
+    background-color: blue;
+}
+.ice10{
+    grid-area:2/2;
+    background-color: lightgrey;
+}
+.ice11{
+    grid-area:2/3;
+    background-color: red;
+}
+.ice12{
+    grid-area:2/4;
+    background-color: lightgrey;
+}
+.ice13{
+    grid-area:2/5;
+    background-color: lightgrey;
+}
+.ice14{
+    grid-area:3/2;
+    background-color: red;
+}
+.ice15{
+    grid-area:3/3;
+    background-color: red;
+}
+.ice16{
+    grid-area:3/4;
+    background-color: red;
+}
+.ice17{
+    grid-area:3/5;
+    background-color: red;
+}
+.ice18{
+    grid-area:4/2;
+    background-color: lightgrey;
+}
+.ice19{
+    grid-area:4/3;
+    background-color: red;
+}
+.ice20{
+    grid-area:4/4;
+    background-color: lightgrey;
+}
+.ice21{
+    grid-area:4/5;
+    background-color: lightgrey;
+}
+.ice22{
+    grid-area:5/2;
+    background-color: lightgrey;
+}
+.ice23{
+    grid-area:5/3;
+    background-color: red;
+}
+.ice24{
+    grid-area:5/4;
+    background-color: lightgrey;
+}
+.ice25{
+    grid-area:5/5;
+    background-color: blue;
+}
